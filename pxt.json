@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "k8": "github:k8robotics/pxt-k8#v1.1.0"
     },
     "files": [
         "main.blocks",
